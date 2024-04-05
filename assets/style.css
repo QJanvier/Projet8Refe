@@ -378,3 +378,35 @@ input[type="submit"] {
 	}
 }
 
+/* Images dimensions */
+img {
+	object-fit: cover;
+}
+
+.carousel-inner img {
+	width: 1980px;
+	max-width: 100%;
+	height: 888px;
+	height: auto;
+}
+
+.gallery img {
+	width: 440px;
+	width: 100%;
+	height: 440px;
+	height: 100%;
+}
+
+.left img {
+	width: 560px;
+	max-width: 100%;
+	height: 559px;
+	height: auto;
+}
+
+.right img {
+	width: 392px;
+	width: 100%;
+	height: 391px;
+	height: auto;
+}
