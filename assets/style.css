@@ -296,12 +296,7 @@ input[type="submit"] {
 		z-index: -1;
 	}
 
-	.left img {
-		width: 270px;
-		height: 270px;
-	}
-
-	.right img {
+	.left img .right img{
 		width: 270px;
 		height: 270px;
 	}
@@ -375,6 +370,7 @@ input[type="submit"] {
 		padding-inline: 2em;
 		padding-block: 2em;
 	}
+
 	form {
 		width: 100%;
 	}
